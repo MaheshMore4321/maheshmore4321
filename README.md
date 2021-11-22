@@ -48,4 +48,6 @@ I am Mahesh More 🧔
  <img alt="Mahesh More's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmore4321&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 </a>
 
+<br>
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
