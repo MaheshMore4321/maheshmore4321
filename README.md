@@ -37,7 +37,7 @@ During my free time🔭, I'm a freelance, architect and build solutions using ba
 
 ## 😄 Hello World!! 
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![CodersTea](https://img.shields.io/badge/CodersTea-orange&logo=medium)](https://coderstea.com)
+- 📫 Read my blogs: [![CodersTea](https://img.shields.io/badge/CodersTea-orange&logo=medium)](https://coderstea.in)
 - 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/Follow%20me-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/maheshmore4321/)
 
 ## 📈 Github Stats
