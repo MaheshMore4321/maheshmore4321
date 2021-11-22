@@ -11,6 +11,7 @@
 I am Mahesh More🧔.
 
 I live in India and a long time ago graduated in Electronics Engineering from Mumbai University🏫.  I developed myself on the web for over 6 years. I am currently working as a Software Engineer @ JPMorgan Chase & Co.💻 I enjoy learning and applying my knowledge. I have learned Java and still learning Python & many more. 
+
 I have experience in AI technology & all levels of Software Development Life Cycle (SDLC). For more than 6 years I work in software development where I have experience in developing applications from scratch which is involved designing, developing & testing the application phase.
 
 I have been running blog websites🌱 as CodersTea with my colleague, & there exploring all websites infra & technology like cloud platform, DNS, SEO, Network & cyber security-related stuff😎.
