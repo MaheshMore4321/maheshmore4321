@@ -31,8 +31,6 @@ During my free time🔭, I'm a freelance, architect and build solutions using ba
 - **Kubernetes , Docker and microservices**
 - Build things on **AWS**, **OracleCloud**.
 
-<img align="right" src="https://api.daily.dev/devcards/152fb351692e44f08e6de878b855eaf0.png?r=kaz" width="150px" height="192px" alt="Mahesh More's Dev Card"/>
-
 ## 😄 Hello World!! 
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [![CodersTea](https://img.shields.io/badge/CodersTea-orange&logo=medium)](https://coderstea.in)
