@@ -10,31 +10,26 @@
 
 I am Mahesh More🧔.
 
-I live in India and a long time ago graduated in Electronics Engineering from Mumbai University🏫.  I developed myself on the web for over 6 years. I am currently working as a Software Engineer @ JPMorgan Chase & Co.💻 I enjoy learning and applying my knowledge. I have learned Java and still learning Python & many more. 
+Performance-driven and self-motivated FullStack Developer with 6+ years of extensive experience in the development of enterprises web apps using Java, Springboot, and NodeJS. 
 
-I have experience in AI technology & all levels of Software Development Life Cycle (SDLC). For more than 6 years I work in software development where I have experience in developing applications from scratch which is involved designing, developing & testing the application phase.
+Experience in leading the team in various projects. <br>Write programming articles on [CodersTea](https://coderstea.in)
+
+Currently working in JPMorgan Chase & Co. as Software Engineer.
 
 <img align="right" src="https://github.com/MaheshMore4321/maheshmore4321/blob/main/assets/giphy.webp" width='200'/>
 
-I have been running blog websites🌱 as CodersTea with my colleague, & there exploring all websites infra & technology like cloud platform, DNS, SEO, Network & cyber security-related stuff😎.
-
-Personally🤔 keep upgrading platform & technology, very long time ago I have switched Linux as primary operating system, I have explored most of all its flavors & keep exploring, from ubuntu, Linux mint, fedora, Manjaro to now Garuda Linux - ArchLinux as Os & many more it rest in my VirtualBox & cloud Instance
-
-During my free time🔭, I'm a freelance, architect and build solutions using backend and cloud technologies.
-
 ## ⚡ Technologies on use
-- Robust full-stack system design implementation design on cloud as well as on-premise
-- Front-end development using **HTML, CSS, JavaScript**
-- Backend development using **Java,Node,Php**
+- Robust full-stack system design implementation design on the cloud as well as on-premise
 - Solving Data structure and algorithm questions in **Java**
-- Making for **Relational Database Management Systems**
-- **Kubernetes , Docker and microservices**
+- Front-end development using **ReactJS, HTML, CSS, JavaScript**
+- Backend development using **Java, Node, Php, ExpressJS**
+- **Kubernetes, Docker, and microservices**
 - Build things on **AWS**, **OracleCloud**.
 
 ## 😄 Hello World!! 
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![CodersTea](https://img.shields.io/badge/CodersTea-orange&logo=medium)](https://coderstea.in)
-- 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/Follow%20me-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/maheshmore4321/)
+- 📫 [Read my blogs @CodersTea](https://coderstea.in)
+- 🎯 [Check out my Portfolio Website](https://maheshmore4321.github.io/)
+
 
 ## 📈 Github Stats
 <a href="https://github.com/maheshmore4321/maheshmore4321">
